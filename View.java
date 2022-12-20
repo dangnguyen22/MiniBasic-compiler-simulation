@@ -2,10 +2,10 @@
 
 /**
     
-   @author  Antonio Sanchez for
+   @author Michael Nguyen for
     Cosc  20203 Programming Techniques
    
-   @version 1.01 2007-01-15
+   @version 1.01 2022-10-19
 */
 
 import java.io.IOException;
