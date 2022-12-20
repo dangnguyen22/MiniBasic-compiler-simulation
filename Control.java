@@ -10,7 +10,6 @@
 	import java.io.FileNotFoundException;
 	import java.io.FileWriter;
 	import java.io.IOException;
-	import java.awt.*;
 	import java.io.*;
 	import java.net.*;
 	import java.awt.event.*;
@@ -19,7 +18,6 @@
 	import java.util.*;
 	import java.awt.*;
 	import java.awt.event.*;
-	import java.io.*;
 	import java.net.URL;
 	import java.util.Scanner;
 	import java.util.StringTokenizer;
